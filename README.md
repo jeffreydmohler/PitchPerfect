@@ -1,3 +1,12 @@
+Project Report can be found in the `Final Writeup.pdf` file.
+
+Hosted site can be found at https://pitch--perfect.herokuapp.com/
+
+Ipynb can be found [here](https://colab.research.google.com/drive/1Owaq6ych_0FKoLyL8TN0vedTbx7_woa_?usp=sharing)
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
